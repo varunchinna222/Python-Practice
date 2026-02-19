@@ -1,5 +1,5 @@
 booking_count = 0
-total_seats = 10
+total_seats = 350
 rejected_count = 0
 total_bookings = 0
 while True:
